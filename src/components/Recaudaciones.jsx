@@ -6,8 +6,8 @@ const Recaudaciones = () => {
   return (
     <div className="contenedor">
       <h2>
-        Política de Cooperación entre Compañeros en Caso de Hospitalización o
-        Fallecimiento de Familiares.
+        Política de Cooperación entre Compañeros operadores y checadores de
+        urbanos rojos en Caso de Hospitalización o Fallecimiento de Familiares.
       </h2>
       <p>Estimados compañeros,</p>
       <p>
@@ -48,11 +48,11 @@ const Recaudaciones = () => {
         </ul>
       </p>
       <p>
-        En el caso de que uno de nuestros compañeros se enfrente a una situación
-        de hospitalización o fallecimiento de alguno de estos familiares, les
-        alentamos a ponerse en contacto con Abraham Cabrera Benito al número 231
-        159 1893, quien se encargará de comunicar la situación a todos los
-        compañeros a través de las redes sociales.
+        En el caso de que uno de nuestros compañeros operadores o checadores se
+        enfrente a una situación de hospitalización o fallecimiento de alguno de
+        estos familiares, les alentamos a ponerse en contacto con Abraham
+        Cabrera Benito al número 231 159 1893, quien se encargará de comunicar
+        la situación a todos los compañeros a través de las redes sociales.
       </p>
       <p>
         Posteriormente, el compañero afectado coordinará la recolección de
@@ -83,6 +83,10 @@ const Recaudaciones = () => {
         nuestro grupo. Juntos, podemos afrontar las dificultades de la vida y
         asegurarnos de que todos nuestros compañeros se sientan respaldados en
         momentos de necesidad.
+      </p>
+      <p>
+        Es importante destacar que estas recaudaciones están destinadas
+        exclusivamente para compañeros operadores y checadores.
       </p>
       <div className="separador"></div>
       <h2>Cronología de Recaudaciones.</h2>
@@ -201,6 +205,27 @@ const Recaudaciones = () => {
         sábado, 20 de abril de 2024.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./17.png" />
+      <div className="separador"></div>
+      <p>
+        18. Recaudación para apoyar al compañero_ Samuel, Operador de la unidad_
+        10, (Su hija se encuentra internada en el hospital). Recauda_ David,
+        Enrique y Abraham. lunes, 6 de mayo de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./18.png" />
+      <div className="separador"></div>
+      <p>
+        19. Recaudación para apoyar al compañero_ Samuel, Operador de la unidad_
+        10, (Operaron a su hija de el apéndice). Recaudadores_ Alacrán, Daniel
+        #01 y Ramiro. domingo, 12 de mayo de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./19.png" />
+      <div className="separador"></div>
+      <p>
+        20 Recaudación para apoyar al compañero_ Samuel, Operador de la unidad_
+        10, (su hija se encuentra internada en el hospital, al día de hoy ya son
+        34 días). Recaudan_ Eloy, David y Heriberto. domingo, 9 de junio de 2024
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./20.png" />
     </div>
   );
 };
