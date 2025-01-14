@@ -88,6 +88,40 @@ const Recaudaciones = () => {
         Es importante destacar que estas recaudaciones están destinadas
         exclusivamente para compañeros operadores y checadores.
       </p>
+      <p>
+        <b>Normativa para la Gestión de Recaudaciones Solidarias.</b>
+        <br></br>
+        Con el objetivo de mantener la transparencia y la colaboración en las
+        recaudaciones destinadas a apoyar a compañeros en situaciones de gastos
+        médicos o fallecimiento de un familiar, se establece la siguiente
+        dinámica:
+      </p>
+      <p>
+        <b>1. Responsabilidad del beneficiado anterior:</b>
+        <br></br>
+        El último compañero beneficiado con una recaudación será el responsable
+        de llevar a cabo la próxima colecta en caso de que se requiera una
+        nueva. Esta medida busca fomentar la reciprocidad y el apoyo mutuo
+        dentro del grupo.
+      </p>
+      <p>
+        <b>2. Distribución del tiempo para la recaudación::</b>
+        <br></br>
+        El responsable deberá dedicar 2 horas en total para realizar la colecta,
+        divididas en 2 días consecutivos: <b>Primer día:</b> dedicará 1 hora
+        para realizar las solicitudes y organizar la colecta.{" "}
+        <b>Segundo día:</b> destinará 1 hora adicional para continuar con la
+        gestión y seguimiento.
+      </p>
+      <p>
+        <b>3. Compromiso y apoyo grupal::</b>
+        <br></br>
+        Este sistema busca distribuir equitativamente las responsabilidades y
+        garantizar que todos los compañeros sean apoyados en momentos de
+        necesidad. La colaboración de todos es clave para que esta iniciativa
+        funcione de manera efectiva.
+      </p>
+
       <div className="separador"></div>
       <h2>Cronología de Recaudaciones.</h2>
       <h1>2021</h1>
@@ -226,6 +260,77 @@ const Recaudaciones = () => {
         34 días). Recaudan_ Eloy, David y Heriberto. domingo, 9 de junio de 2024
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./20.png" />
+      <div className="separador"></div>
+      <p>
+        21 Recaudación para apoyar al compañero_ Elpidio, Operador de la unidad_
+        40, (fallecimiento de su padre). Recauda_ Alacran. martes, 11 de junio
+        de 2024
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./21.jpg" />
+      <div className="separador"></div>
+      <p>
+        22 Recaudación para apoyar al compañero_ Sergio, Operador de la unidad_
+        02, (su esposa se sometera a una cirugía).Recauda_Samuel y JoyBoy
+        domingo, 4 de agosto de 2024
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./22.png" />
+      <div className="separador"></div>
+      <p>
+        23 Recaudación para apoyar al compañero_ Víctor, Checador, (Su esposa
+        tuvo un accidente y se encuentra en tratamiento y
+        rehabilitación).Recauda_Sergio. Jueves, 12 de septiembre de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./23.png" />
+      <div className="separador"></div>
+      <p>
+        24 Recaudación para apoyar al compañero_ Juan Fernández. Lavador,
+        (Fallecimientode su madre). Recauda_Pocoyo. Viernes, 20 de septiembre de
+        2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./24.png" />
+      <div className="separador"></div>
+      <p>
+        25 Recaudación para apoyar al compañero_ Samuel, Posturero de la unidad_
+        2, 15, 3, 7, (se encuentra grave de los pulmónes). Recauda: Juan
+        Fernandez (Lavador). Viernes, 4 de octubre de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./25.png" />
+      <div className="separador"></div>
+      <p>
+        26 Recaudación para apoyar al compañero_ Rodolfo, Operador de la unidad_
+        38, (su esposa se encuentra internada en el hospital). Miércoles, 9 de
+        octubre de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./26.png" />
+      <div className="separador"></div>
+      <p>
+        27 Recaudación para apoyar al compañero_ Filemon, Operador de la unidad_
+        36, (su esposa se opero de emergencia el día Lunes 21 de octubre).lunes,
+        28 de octubre de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./27.png" />
+      <div className="separador"></div>
+      <p>
+        28 Recaudación para apoyar al compañero_ Manuel, Operador de la unidad_
+        29, (su esposa estuvo internada en el hospital del 02 de noviembre al 05
+        de noviembre).jueves, 14 de noviembre de 2024.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./28.png" />
+      <div className="separador"></div>
+      <h1>2025</h1>
+      <div className="separador"></div>
+      <p>
+        29 Recaudación para apoyar al compañero_ Alejandro, Operador de la
+        unidad_ 30, (Su hija se encuentra internada en el hospital
+        general, ingreso el dia domingo 05 de enero.).miércoles, 8 de enero de 2025.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./29.png" />
+      <div className="separador"></div>
+      <p>
+        30 Recaudación para apoyar al compañero_ Sergio , Operador de la unidad_
+        02, (Fallecimiento de su padre el día lunes 6 de enero).lunes, 13 de enero de 2025.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./30.png" />
     </div>
   );
 };
