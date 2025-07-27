@@ -341,7 +341,7 @@ const Recaudaciones = () => {
       <div className="separador"></div>
       <p>
         32 Recaudación para apoyar al compañero_ Luna , Operador de la unidad_
-        39, (Su hijo se encuentra internado en el hospital en puebla).martes, 28
+        39, (Su hijo se encuentra internado en el hospital en puebla). martes, 28
         de enero de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./32.png" />
@@ -349,32 +349,37 @@ const Recaudaciones = () => {
       <p>
         33 Recaudación para apoyar al compañero_ Javier, Operador de la unidad_
         21, (Estuvo hospitalizado y ahora se encuentra en casa en
-        tratamiento).lunes, 10 de febrero de 2025.
+        tratamiento). lunes, 10 de febrero de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./33.png" />
       <p>
         34 Recaudación para apoyar al compañero_ Javier, Operador de la unidad_
-        21, (Su esposa se encuentra internada en el hospital).sabado, 22 de
+        21, (Su esposa se encuentra internada en el hospital). sabado, 22 de
         marzo de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./34.jpg" />
       <p>
         35 Recaudación para apoyar al compañero_ Francisco , Operador de la
-        unidad_ 16 , (Lo operaron de la vesícula).viernes, 9 de mayo de 2025.
+        unidad_ 16 , (Lo operaron de la vesícula). viernes, 9 de mayo de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./35.png" />
       <p>
         36 Recaudación para apoyar al compañero_ Fermín, Operador de la unidad_
         04, (su hija se encuentra internada en el hospital y se sometera a una
-        cirugía de alto riesgo).lunes, 12 de mayo de 2025.
+        cirugía de alto riesgo). lunes, 12 de mayo de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./36.png" />
       <p>
         37 Recaudación para apoyar al compañero_ Heriberto, Operador de la
         unidad_ 14, (Tuvo una cirugíaen el pie. Y requiere de mas
-        estudios).martes, 27 de mayo de 2025.
+        estudios). martes, 27 de mayo de 2025.
       </p>
       <img style={{ width: "95%", height: "auto" }} src="./37.png" />
+      <p>
+        38 Recaudación para apoyar al compañero_ Rodolfo, Operador de la unidad_
+        38, (Fallecimientode su abuelita). miércoles, 4 de junio de 2025.
+      </p>
+      <img style={{ width: "95%", height: "auto" }} src="./38.png" />
     </div>
   );
 };
